@@ -1,2 +1,2 @@
 # LAPR
-Parallel Linearized ADMM Algorithm for Penalized Regression
+Parallel ADMM Algorithm for Penalized Regression
